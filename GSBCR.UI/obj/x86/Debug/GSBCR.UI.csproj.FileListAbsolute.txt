@@ -1,0 +1,88 @@
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.Properties.Resources.resources
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.UI.exe
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.UI.pdb
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.exe
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.pdb
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.UI.exe.config
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.BLL.dll
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.modele.dll
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.BLL.pdb
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.modele.pdb
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\bin\Debug\fr\EntityFramework.resources.dll
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmListeRapport.resources
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmMenuVisiteur.resources
+D:\Visual Studio Projects\GSBCR.UI\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmSaisir.resources
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmListeRapport.resources
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmMenuVisiteur.resources
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmSaisir.resources
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.Properties.Resources.resources
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.UI.exe.config
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.UI.exe
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.UI.pdb
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.BLL.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.modele.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.BLL.pdb
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.modele.pdb
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\bin\Debug\fr\EntityFramework.resources.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.exe
+D:\Visual Studio Projects\GSBCR2016\GSBCR.UI\obj\x86\Debug\GSBCR.UI.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.UI.exe.config
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.exe
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.UI.exe
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.UI.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.BLL.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.modele.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.BLL.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.modele.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\fr\EntityFramework.resources.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmListeRapport.resources
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmMenuVisiteur.resources
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmSaisir.resources
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmSeConnecter.resources
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.Properties.Resources.resources
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmRapportEnCours.resources
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.UC.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\bin\Debug\GSBCR.UC.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmVoirMedicament.resources
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.UI\bin\Debug\GSBCR.UI.exe.config
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.UI\obj\x86\Debug\GSBCR.UI.exe
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.UI\obj\x86\Debug\GSBCR.UI.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.UI.exe.config
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.exe
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csprojResolveAssemblyReference.cache
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmMenuVisiteur.resources
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmSaisir.resources
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.Properties.Resources.resources
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.csproj.GenerateResource.Cache
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.UI.exe
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.UI.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\EntityFramework.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.BLL.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.modele.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.DAL.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\EntityFramework.xml
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.BLL.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.modele.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\GSBCR.DAL.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\bin\Debug\fr\EntityFramework.resources.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.UI\obj\x86\Debug\GSBCR.UI.FrmRapportEnCours.resources

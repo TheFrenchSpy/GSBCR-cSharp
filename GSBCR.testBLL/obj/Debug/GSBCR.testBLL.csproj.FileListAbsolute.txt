@@ -1,0 +1,2 @@
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.testBLL\obj\Debug\GSBCR.testBLL.csprojAssemblyReference.cache
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.testBLL\obj\Debug\GSBCR.testBLL.csproj.CoreCompileInputs.cache

@@ -1,0 +1,52 @@
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\GSBCR.modele.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\GSBCR.modele.pdb
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\bin\Debug\fr\EntityFramework.resources.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\obj\Debug\GSBCR.DAL.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\obj\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR2016\GSBCR.DAL\obj\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\obj\Debug\GSBCR.DAL.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\obj\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\obj\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\GSBCR.DAL.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\GSBCR.DAL.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\EntityFramework.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\GSBCR.modele.dll
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\GSBCR.modele.pdb
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\EntityFramework.xml
+D:\Visual Studio Projects\GSBCR2017\GSBCR.DAL\bin\Debug\fr\EntityFramework.resources.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\GSBCR.DAL.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\GSBCR.DAL.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\EntityFramework.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\GSBCR.modele.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\GSBCR.modele.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\EntityFramework.xml
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\bin\Debug\fr\EntityFramework.resources.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\obj\Debug\GSBCR.DAL.csprojResolveAssemblyReference.cache
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\obj\Debug\GSBCR.DAL.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR2017_eleves\GSBCR.DAL\obj\Debug\GSBCR.DAL.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\bin\Debug\GSBCR.DAL.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\bin\Debug\GSBCR.DAL.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\bin\Debug\GSBCR.modele.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\bin\Debug\EntityFramework.xml
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\bin\Debug\GSBCR.modele.pdb
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\bin\Debug\fr\EntityFramework.resources.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\obj\Debug\GSBCR.DAL.csprojResolveAssemblyReference.cache
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\obj\Debug\GSBCR.DAL.dll
+D:\Module PPE3\GSB Gestion Compte Rendus\version 2017\GSBCR.DAL\obj\Debug\GSBCR.DAL.pdb
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\obj\Debug\GSBCR.DAL.csprojAssemblyReference.cache
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\obj\Debug\GSBCR.DAL.csproj.CoreCompileInputs.cache
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\obj\Debug\GSBCR.DAL.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\obj\Debug\GSBCR.DAL.pdb
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\GSBCR.DAL.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\GSBCR.DAL.pdb
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\EntityFramework.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\GSBcr.modele.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\GSBcr.modele.pdb
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\GSBcr.modele.dll.config
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\EntityFramework.xml
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\bin\Debug\fr\EntityFramework.resources.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBCR.DAL\obj\Debug\GSBCR.DAL.csproj.CopyComplete

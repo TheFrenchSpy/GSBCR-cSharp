@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GSB_visite_groupe2ModelStoreContainer" CdmEntityContainer="GSB_visite_groupe2Entities">
+    <EntitySetMapping Name="FAMILLE">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.FAMILLE">
+        <MappingFragment StoreEntitySet="FAMILLE">
+          <ScalarProperty Name="FAM_CODE" ColumnName="FAM_CODE" />
+          <ScalarProperty Name="FAM_LIBELLE" ColumnName="FAM_LIBELLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MEDICAMENT">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.MEDICAMENT">
+        <MappingFragment StoreEntitySet="MEDICAMENT">
+          <ScalarProperty Name="MED_DEPOTLEGAL" ColumnName="MED_DEPOTLEGAL" />
+          <ScalarProperty Name="MED_NOMCOMMERCIAL" ColumnName="MED_NOMCOMMERCIAL" />
+          <ScalarProperty Name="FAM_CODE" ColumnName="FAM_CODE" />
+          <ScalarProperty Name="MED_COMPOSITION" ColumnName="MED_COMPOSITION" />
+          <ScalarProperty Name="MED_EFFETS" ColumnName="MED_EFFETS" />
+          <ScalarProperty Name="MED_CONTREINDIC" ColumnName="MED_CONTREINDIC" />
+          <ScalarProperty Name="MED_PRIXECHANTILLON" ColumnName="MED_PRIXECHANTILLON" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MOTIF_VISITE">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.MOTIF_VISITE">
+        <MappingFragment StoreEntitySet="MOTIF_VISITE">
+          <ScalarProperty Name="MOT_CODE" ColumnName="MOT_CODE" />
+          <ScalarProperty Name="MOT_LIBEL" ColumnName="MOT_LIBEL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OFFRIR">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.OFFRIR">
+        <MappingFragment StoreEntitySet="OFFRIR">
+          <ScalarProperty Name="VIS_MATRICULE" ColumnName="VIS_MATRICULE" />
+          <ScalarProperty Name="RAP_NUM" ColumnName="RAP_NUM" />
+          <ScalarProperty Name="MED_DEPOTLEGAL" ColumnName="MED_DEPOTLEGAL" />
+          <ScalarProperty Name="OFF_QTE" ColumnName="OFF_QTE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="POSSEDER">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.POSSEDER">
+        <MappingFragment StoreEntitySet="POSSEDER">
+          <ScalarProperty Name="PRA_NUM" ColumnName="PRA_NUM" />
+          <ScalarProperty Name="SPE_CODE" ColumnName="SPE_CODE" />
+          <ScalarProperty Name="POS_DIPLOME" ColumnName="POS_DIPLOME" />
+          <ScalarProperty Name="POS_COEFPRESCRIPTION" ColumnName="POS_COEFPRESCRIPTION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PRATICIEN">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.PRATICIEN">
+        <MappingFragment StoreEntitySet="PRATICIEN">
+          <ScalarProperty Name="PRA_NUM" ColumnName="PRA_NUM" />
+          <ScalarProperty Name="PRA_NOM" ColumnName="PRA_NOM" />
+          <ScalarProperty Name="PRA_PRENOM" ColumnName="PRA_PRENOM" />
+          <ScalarProperty Name="PRA_ADRESSE" ColumnName="PRA_ADRESSE" />
+          <ScalarProperty Name="PRA_CP" ColumnName="PRA_CP" />
+          <ScalarProperty Name="PRA_VILLE" ColumnName="PRA_VILLE" />
+          <ScalarProperty Name="PRA_COEFNOTORIETE" ColumnName="PRA_COEFNOTORIETE" />
+          <ScalarProperty Name="TYP_CODE" ColumnName="TYP_CODE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RAPPORT_VISITE">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.RAPPORT_VISITE">
+        <MappingFragment StoreEntitySet="RAPPORT_VISITE">
+          <ScalarProperty Name="RAP_MATRICULE" ColumnName="RAP_MATRICULE" />
+          <ScalarProperty Name="RAP_NUM" ColumnName="RAP_NUM" />
+          <ScalarProperty Name="RAP_PRANUM" ColumnName="RAP_PRANUM" />
+          <ScalarProperty Name="RAP_DATE" ColumnName="RAP_DATE" />
+          <ScalarProperty Name="RAP_DATVISIT" ColumnName="RAP_DATVISIT" />
+          <ScalarProperty Name="RAP_ETAT" ColumnName="RAP_ETAT" />
+          <ScalarProperty Name="RAP_CONFIANCE" ColumnName="RAP_CONFIANCE" />
+          <ScalarProperty Name="RAP_BILAN" ColumnName="RAP_BILAN" />
+          <ScalarProperty Name="RAP_MOTIF" ColumnName="RAP_MOTIF" />
+          <ScalarProperty Name="RAP_MOTIFAUTRE" ColumnName="RAP_MOTIFAUTRE" />
+          <ScalarProperty Name="RAP_NOMREMPL" ColumnName="RAP_NOMREMPL" />
+          <ScalarProperty Name="RAP_PNOMREMPL" ColumnName="RAP_PNOMREMPL" />
+          <ScalarProperty Name="RAP_MED1" ColumnName="RAP_MED1" />
+          <ScalarProperty Name="RAP_MED2" ColumnName="RAP_MED2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.RAPPORT_VISITE">
+        <ModificationFunctionMapping>
+          <UpdateFunction FunctionName="GSB_visite_groupe2Model.Store.updRapport">
+            <ScalarProperty Name="RAP_MED2" ParameterName="pMed2" Version="Current" />
+            <ScalarProperty Name="RAP_MED1" ParameterName="pMed1" Version="Current" />
+            <ScalarProperty Name="RAP_PNOMREMPL" ParameterName="pPrenomR" Version="Current" />
+            <ScalarProperty Name="RAP_NOMREMPL" ParameterName="pNomR" Version="Current" />
+            <ScalarProperty Name="RAP_MOTIFAUTRE" ParameterName="pAutre" Version="Current" />
+            <ScalarProperty Name="RAP_MOTIF" ParameterName="pMotif" Version="Current" />
+            <ScalarProperty Name="RAP_BILAN" ParameterName="pBilan" Version="Current" />
+            <ScalarProperty Name="RAP_CONFIANCE" ParameterName="pConf" Version="Current" />
+            <ScalarProperty Name="RAP_ETAT" ParameterName="pEtat" Version="Current" />
+            <ScalarProperty Name="RAP_DATVISIT" ParameterName="pDatVisit" Version="Current" />
+            <ScalarProperty Name="RAP_PRANUM" ParameterName="pPranum" Version="Current" />
+            <ScalarProperty Name="RAP_NUM" ParameterName="pNum" Version="Current" />
+            <ScalarProperty Name="RAP_MATRICULE" ParameterName="pMat" Version="Current" />
+          </UpdateFunction>
+          <InsertFunction FunctionName="GSB_visite_groupe2Model.Store.addRapport">
+            <ScalarProperty Name="RAP_MED2" ParameterName="pMed2" />
+            <ScalarProperty Name="RAP_MED1" ParameterName="pMed1" />
+            <ScalarProperty Name="RAP_PNOMREMPL" ParameterName="pPrenomR" />
+            <ScalarProperty Name="RAP_NOMREMPL" ParameterName="pNomR" />
+            <ScalarProperty Name="RAP_MOTIFAUTRE" ParameterName="pAutre" />
+            <ScalarProperty Name="RAP_MOTIF" ParameterName="pMotif" />
+            <ScalarProperty Name="RAP_BILAN" ParameterName="pBilan" />
+            <ScalarProperty Name="RAP_CONFIANCE" ParameterName="pConf" />
+            <ScalarProperty Name="RAP_ETAT" ParameterName="pEtat" />
+            <ScalarProperty Name="RAP_DATVISIT" ParameterName="pDatVisit" />
+            <ScalarProperty Name="RAP_PRANUM" ParameterName="pPranum" />
+            <ScalarProperty Name="RAP_MATRICULE" ParameterName="pMat" />
+            <ResultBinding Name="RAP_NUM" ColumnName="pnum" />
+          </InsertFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="REGION">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.REGION">
+        <MappingFragment StoreEntitySet="REGION">
+          <ScalarProperty Name="REG_CODE" ColumnName="REG_CODE" />
+          <ScalarProperty Name="SEC_CODE" ColumnName="SEC_CODE" />
+          <ScalarProperty Name="REG_NOM" ColumnName="REG_NOM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SECTEUR">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.SECTEUR">
+        <MappingFragment StoreEntitySet="SECTEUR">
+          <ScalarProperty Name="SEC_CODE" ColumnName="SEC_CODE" />
+          <ScalarProperty Name="SEC_LIBELLE" ColumnName="SEC_LIBELLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SPECIALITE">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.SPECIALITE">
+        <MappingFragment StoreEntitySet="SPECIALITE">
+          <ScalarProperty Name="SPE_CODE" ColumnName="SPE_CODE" />
+          <ScalarProperty Name="SPE_LIBELLE" ColumnName="SPE_LIBELLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TRAVAILLER">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.TRAVAILLER">
+        <MappingFragment StoreEntitySet="TRAVAILLER">
+          <ScalarProperty Name="VIS_MATRICULE" ColumnName="VIS_MATRICULE" />
+          <ScalarProperty Name="DATEAFFECTATION" ColumnName="DATEAFFECTATION" />
+          <ScalarProperty Name="REG_CODE" ColumnName="REG_CODE" />
+          <ScalarProperty Name="TRA_ROLE" ColumnName="TRA_ROLE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.TRAVAILLER">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="GSB_visite_groupe2Model.Store.addTravailler">
+            <ScalarProperty Name="TRA_ROLE" ParameterName="pRole" />
+            <ScalarProperty Name="REG_CODE" ParameterName="pReg" />
+            <ScalarProperty Name="DATEAFFECTATION" ParameterName="pdatAff" />
+            <ScalarProperty Name="VIS_MATRICULE" ParameterName="pmat" />
+          </InsertFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TYPE_PRATICIEN">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.TYPE_PRATICIEN">
+        <MappingFragment StoreEntitySet="TYPE_PRATICIEN">
+          <ScalarProperty Name="TYP_CODE" ColumnName="TYP_CODE" />
+          <ScalarProperty Name="TYP_LIBELLE" ColumnName="TYP_LIBELLE" />
+          <ScalarProperty Name="TYP_LIEU" ColumnName="TYP_LIEU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VISITEUR">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.VISITEUR">
+        <MappingFragment StoreEntitySet="VISITEUR">
+          <ScalarProperty Name="VIS_MATRICULE" ColumnName="VIS_MATRICULE" />
+          <ScalarProperty Name="VIS_NOM" ColumnName="VIS_NOM" />
+          <ScalarProperty Name="Vis_PRENOM" ColumnName="Vis_PRENOM" />
+          <ScalarProperty Name="VIS_ADRESSE" ColumnName="VIS_ADRESSE" />
+          <ScalarProperty Name="VIS_CP" ColumnName="VIS_CP" />
+          <ScalarProperty Name="VIS_VILLE" ColumnName="VIS_VILLE" />
+          <ScalarProperty Name="VIS_DATEEMBAUCHE" ColumnName="VIS_DATEEMBAUCHE" />
+          <ScalarProperty Name="SEC_CODE" ColumnName="SEC_CODE" />
+          <ScalarProperty Name="LAB_CODE" ColumnName="LAB_CODE" />
+          <ScalarProperty Name="vis_mdp" ColumnName="vis_mdp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VAFFECTATION">
+      <EntityTypeMapping TypeName="GSB_visite_groupe2Model.VAFFECTATION">
+        <MappingFragment StoreEntitySet="VAFFECTATION">
+          <ScalarProperty Name="VIS_MATRICULE" ColumnName="VIS_MATRICULE" />
+          <ScalarProperty Name="dateAffectation" ColumnName="dateAffectation" />
+          <ScalarProperty Name="REG_CODE" ColumnName="REG_CODE" />
+          <ScalarProperty Name="TRA_ROLE" ColumnName="TRA_ROLE" />
+          <ScalarProperty Name="Vis_PRENOM" ColumnName="Vis_PRENOM" />
+          <ScalarProperty Name="VIS_NOM" ColumnName="VIS_NOM" />
+          <ScalarProperty Name="VIS_DATEEMBAUCHE" ColumnName="VIS_DATEEMBAUCHE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

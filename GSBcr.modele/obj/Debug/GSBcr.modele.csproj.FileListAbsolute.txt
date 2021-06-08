@@ -1,0 +1,11 @@
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\bin\Debug\GSBcr.modele.dll.config
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\bin\Debug\GSBcr.modele.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\bin\Debug\GSBcr.modele.pdb
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\bin\Debug\EntityFramework.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\bin\Debug\EntityFramework.xml
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\bin\Debug\fr\EntityFramework.resources.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\obj\Debug\GSBcr.modele.csprojAssemblyReference.cache
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\obj\Debug\GSBcr.modele.csproj.CoreCompileInputs.cache
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\obj\Debug\GSBcr.modele.csproj.CopyComplete
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\obj\Debug\GSBcr.modele.dll
+D:\tom.maitrepierre\Visual Studio\GSBcr\GSBcr.modele\obj\Debug\GSBcr.modele.pdb
